@@ -1,0 +1,6 @@
+# Git files
+.gitignore
+
+# Training data
+/data/test
+/data/train
