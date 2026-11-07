@@ -1,0 +1,1 @@
+note: features folder added to .gitignore due to file size limits

@@ -7,4 +7,6 @@
 /data/train
 
 /data/starterskit/.ipynb_checkpoints
-/data/starterskit/features
+
+/data/starterskit/features/test
+/data/starterskit/features/train
