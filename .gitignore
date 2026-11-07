@@ -1,6 +1,10 @@
 # Git files
+.git
 .gitignore
 
 # Training data
 /data/test
 /data/train
+
+/data/starterskit/.ipynb_checkpoints
+/data/starterskit/features
